@@ -2,7 +2,8 @@
     <div>
         <NuxtRouteAnnouncer />
         <NuxtLayout>
-            <AppHeader />
+            <CustomHeader />
+            <Content />
         </NuxtLayout>
     </div>
 </template>
