@@ -1,5 +1,8 @@
 <template>
-    <div class="text-2xl text-red-500"></div>
+  <div>
+    
+  </div>
+    <div class="text-2xl text-red-500">test</div>
 </template>
 
 <script lang="ts" setup>
