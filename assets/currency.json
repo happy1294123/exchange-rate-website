@@ -1,0 +1,163 @@
+[
+    {
+        "name": "USD",
+        "full name": "United States",
+        "denom list": [
+            {
+                "denom": 100,
+                "buy adjustment": "+0.02",
+                "sell adjustment": "-0.06"
+            },
+            {
+                "denom": 50,
+                "buy adjustment": "+0.02",
+                "sell adjustment": "-0.06"
+            }
+        ]
+    },
+    {
+        "name": "EUR",
+        "full name": "European Union",
+        "denom list": []
+    },
+    {
+        "name": "GBP",
+        "full name": "United Kingdom",
+        "denom list": []
+    },
+    {
+        "name": "CHF",
+        "full name": "Switzerland",
+        "denom list": []
+    },
+    {
+        "name": "AUD",
+        "full name": "Australia",
+        "denom list": []
+    },
+    {
+        "name": "JPY",
+        "full name": "Japan",
+        "denom list": []
+    },
+    {
+        "name": "MYR",
+        "full name": "Malaysia",
+        "denom list": []
+    },
+    {
+        "name": "SGD",
+        "full name": "Singapore",
+        "denom list": []
+    },
+    {
+        "name": "KRW",
+        "full name": "Korea",
+        "denom list": []
+    },
+    {
+        "name": "CNY",
+        "full name": "China",
+        "denom list": []
+    },
+    {
+        "name": "HKD",
+        "full name": "Hong Kong",
+        "denom list": []
+    },
+    {
+        "name": "TWD",
+        "full name": "Taiwan",
+        "denom list": []
+    },
+    {
+        "name": "CAD",
+        "full name": "Canada",
+        "denom list": []
+    },
+    {
+        "name": "DKK",
+        "full name": "Denmark",
+        "denom list": []
+    },
+    {
+        "name": "NOK",
+        "full name": "Norway",
+        "denom list": []
+    },
+    {
+        "name": "SEK",
+        "full name": "Sweden",
+        "denom list": []
+    },
+    {
+        "name": "PHP",
+        "full name": "Philippines",
+        "denom list": []
+    },
+    {
+        "name": "NZD",
+        "full name": "New Zealand",
+        "denom list": []
+    },
+    {
+        "name": "ZAR",
+        "full name": "South Africa",
+        "denom list": []
+    },
+    {
+        "name": "VND",
+        "full name": "Vietnam",
+        "denom list": []
+    },
+    {
+        "name": "INR",
+        "full name": "India",
+        "denom list": []
+    },
+    {
+        "name": "IDR",
+        "full name": "Indonesia",
+        "denom list": []
+    },
+    {
+        "name": "SAR",
+        "full name": "Saudi Arabia",
+        "denom list": []
+    },
+    {
+        "name": "AED",
+        "full name": "United Arab Emirate",
+        "denom list": []
+    },
+    {
+        "name": "RUB",
+        "full name": "Russian",
+        "denom list": []
+    },
+    {
+        "name": "QAR",
+        "full name": "Qatar",
+        "denom list": []
+    },
+    {
+        "name": "OMR",
+        "full name": "Oman",
+        "denom list": []
+    },
+    {
+        "name": "MOP",
+        "full name": "Macao",
+        "denom list": []
+    },
+    {
+        "name": "BND",
+        "full name": "Brunei",
+        "denom list": []
+    },
+    {
+        "name": "MMK",
+        "full name": "Myanmar",
+        "denom list": []
+    }
+]
