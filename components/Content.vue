@@ -9,7 +9,7 @@
                 <tr>
                     <th scope="col" class="px-6 py-3 text-center">Currency</th>
                     <th scope="col" class="px-6 py-3"></th>
-                    <th scope="col" class="px-6 py-3">Denom</th>
+                    <th scope="col" class="px-6 py-3"></th>
                     <th scope="col" class="px-6 py-3">Buy</th>
                     <th scope="col" class="px-6 py-3">Sell</th>
                 </tr>
@@ -32,20 +32,12 @@
                         </div>
                         <div class="text-center">United States</div>
                     </th>
+                    <td></td>
                     <td class="px-6 py-4">
                         <NuxtImg src="/images/dollar/USD.png" width="100" />
                     </td>
-                    <td class="px-6 py-4 text-2xl text-white">
-                        <div>100</div>
-                        <div>50</div>
-                        <div>20-1</div>
-                        <div>1</div>
-                    </td>
                     <td class="px-6 py-4 text-2xl text-green-500">
                         <div>33.76</div>
-                        <div>33.71</div>
-                        <div>33.61</div>
-                        <div>33.16</div>
                     </td>
                     <td class="px-6 py-4 text-2xl text-red-500">33.90</td>
                 </tr>
@@ -66,11 +58,9 @@
                         </div>
                         <div class="text-center">European Union</div>
                     </th>
-                    <td class="px-6 py-4">
+                    <td></td>
+                    <td>
                         <NuxtImg src="/images/dollar/EUR.png" width="100" />
-                    </td>
-                    <td class="px-6 py-4 text-2xl text-white">
-                        <div>500-100</div>
                     </td>
                     <td class="px-6 py-4 text-2xl text-green-500">
                         <div>36.40</div>

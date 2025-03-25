@@ -2,162 +2,181 @@
     {
         "name": "USD",
         "full name": "United States",
-        "denom list": [
-            {
-                "denom": 100,
-                "buy adjustment": "+0.02",
-                "sell adjustment": "-0.06"
-            },
-            {
-                "denom": 50,
-                "buy adjustment": "+0.02",
-                "sell adjustment": "-0.06"
-            }
-        ]
+        "buy adjustment": "+0.02",
+        "sell adjustment": "-0.06"
     },
     {
         "name": "EUR",
         "full name": "European Union",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "GBP",
         "full name": "United Kingdom",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "CHF",
         "full name": "Switzerland",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "AUD",
         "full name": "Australia",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "JPY",
         "full name": "Japan",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "MYR",
         "full name": "Malaysia",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "SGD",
         "full name": "Singapore",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "KRW",
         "full name": "Korea",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "CNY",
         "full name": "China",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "HKD",
         "full name": "Hong Kong",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "TWD",
         "full name": "Taiwan",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "CAD",
         "full name": "Canada",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "DKK",
         "full name": "Denmark",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "NOK",
         "full name": "Norway",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "SEK",
         "full name": "Sweden",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "PHP",
         "full name": "Philippines",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "NZD",
         "full name": "New Zealand",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "ZAR",
         "full name": "South Africa",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "VND",
         "full name": "Vietnam",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "INR",
         "full name": "India",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "IDR",
         "full name": "Indonesia",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "SAR",
         "full name": "Saudi Arabia",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "AED",
         "full name": "United Arab Emirate",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "RUB",
         "full name": "Russian",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "QAR",
         "full name": "Qatar",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "OMR",
         "full name": "Oman",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "MOP",
         "full name": "Macao",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "BND",
         "full name": "Brunei",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     },
     {
         "name": "MMK",
         "full name": "Myanmar",
-        "denom list": []
+        "buy adjustment": "",
+        "sell adjustment": ""
     }
 ]
